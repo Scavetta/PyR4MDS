@@ -29,4 +29,3 @@ vignettes/*.pdf
 .Renviron
 .DS_Store
 PyR4MDS.Rproj
-ch03.R
